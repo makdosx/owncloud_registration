@@ -1,0 +1,339 @@
+#a
+{
+position:fixed;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+height:40px;
+width:255px;
+border-style:solid;
+border-width:0.2em;
+border-color:transparent;
+border-radius:5;
+color: #ddd;
+text-align:center;
+text-decoration:none;
+font: bold 23px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+display: block;
+line-height: 40px;
+background: url(/register/register.png) no-repeat scroll 7px 10px;
+background-size:27px 25px;
+padding-left:20px;
+background-color:#35537A;
+}
+
+
+
+
+#a:hover
+{
+position:fixed;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+height:40px;
+width:255px;
+border-style:solid;
+border-width:0.2em;
+border-color:transparent;
+border-radius:5;
+background-color:#304d76;
+color:#fff;
+text-align:center;
+font: bold 23px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+display: block;
+line-height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+#a2
+{
+position:fixed;
+top:35%;
+left:50%;
+transform: translate(-50%, -50%);
+height:40px;
+width:255px;
+border-style:solid;
+border-width:0.2em;
+border-color:transparent;
+border-radius:5;
+color: #ddd;
+text-align:center;
+text-decoration:none;
+font: bold 23px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+display: block;
+line-height: 40px;
+background: url(/register/login.png) no-repeat scroll 7px 10px;
+background-size:30px 25px;
+padding-left:20px;
+background-color:#35537A;
+}
+
+
+
+
+#a2:hover
+{
+position:fixed;
+top:35%;
+left:50%;
+transform: translate(-50%, -50%);
+height:40px;
+width:255px;
+border-style:solid;
+border-width:0.2em;
+border-color:transparent;
+border-radius:5;
+background-color:#304d76;
+color:#fff;
+text-align:center;
+font: bold 23px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+display: block;
+line-height: 40px;
+}
+
+
+
+
+
+
+
+
+
+#or
+{
+position:fixed;
+top:40%;
+left:50%;
+transform: translate(-50%, -50%);
+color: #ddd;
+text-align:center;
+text-decoration:none;
+font: bold 23px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif
+}
+
+
+
+
+
+
+
+
+
+
+
+
+body
+{
+text-align: center;
+background: #1d2d44;  /*Old browsers*/ 
+
+/* background: -moz-linear-gradient(top bottom #324F75 100%, #1E2F47 100%); */
+
+/*background: -moz-linear-gradient(top, #35537a 100%, #1d2d44 100%);*/ /* FF3.6+ */
+
+/*background: linear-gradient(top, #35537a 0%,#1d2d44 100%);*/ /* W3C */
+
+/*background: -webkit-linear-gradient(top, #35537a 0%,#1d2d44 100%);*/ /* Chrome10+,Safari5.1+ */
+}
+
+
+
+
+
+
+
+#img
+{
+position:fixed;
+top:17%;
+left:50%;
+transform: translate(-50%, -50%);
+}
+
+
+
+
+
+#form
+{
+position:fixed;
+top:40%;
+left:50%;
+transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: grey;;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: grey;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: grey;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+#username
+{
+background: url(/register/icons/user.svg) no-repeat scroll 7px 10px;
+background-size:20px 22px;
+padding-left:30px;
+height:3em;
+width:20em;
+background-color:white;
+}
+
+
+
+#mail
+{
+background: url(/register/icons/mail.png) no-repeat scroll 7px 10px;
+background-size:16px 17px;
+padding-left:30px;
+height:3em;
+width:20em;
+background-color:white;
+}
+
+
+
+
+#passwd
+{
+background: url(/register/icons/password.svg) no-repeat scroll 7px 10px;
+background-size:20px 20px;
+padding-left:30px;
+height:3em;
+width:20em;
+background-color:white;
+}
+
+
+
+
+
+#sub
+{
+height:3em;
+width:20em;
+border-style:solid;
+border-width:0.2em;
+border-color:#35537A;
+border-radius:5;
+background-color:#35537A;
+color: #ddd;
+}
+
+
+
+
+
+
+#sub:hover
+{
+height:3em;
+width:20em;
+border-style:solid;
+border-width:0.2em;
+border-color:#304d76;
+border-radius:5;
+background-color:#304d76;
+color:#fff;
+}
+
+
+
+
+
+
+
+
+#back
+{
+position:fixed;
+top:105%;
+left:50%;
+transform: translate(-50%, -50%);
+color: #ddd;
+text-align:center;
+text-decoration: none;
+font: bold 17px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+}
+
+
+
+
+#back:hover
+{
+position:fixed;
+top:105%;
+left:50%;
+transform: translate(-50%, -50%);
+color:#fff;
+text-align:center;
+text-decoration: none;
+font: bold 17px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+#back2
+{
+position:fixed;
+top:45%;
+left:50%;
+transform: translate(-50%, -50%);
+color: #ddd;
+text-align:center;
+text-decoration: none;
+font: bold 17px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+}
+
+
+
+
+#back2:hover
+{
+position:fixed;
+top:45%;
+left:50%;
+transform: translate(-50%, -50%);
+color:#fff;
+text-align:center;
+text-decoration: none;
+font: bold 17px 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
+}
+
